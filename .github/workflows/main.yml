@@ -20,5 +20,5 @@ jobs:
           git config user.name sunpaaaa
           git config user.email sunpaaaa@gmail.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "update profile-3d-contrib"
           git push
