@@ -27,8 +27,8 @@
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img width="48%" height="180" src="https://github-readme-stats.vercel.app/api?username=noSPkeepgoing&show_icons=true&theme=tokyonight" />
-  <img width="48%" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=noSPkeepgoing&theme=tokyonight" />
+  <img width="48%" height="160" src="https://github-readme-stats.vercel.app/api?username=noSPkeepgoing&show_icons=true&theme=tokyonight" />
+  <img width="48%" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=noSPkeepgoing&theme=tokyonight" />
 </div>
 
 <!--
